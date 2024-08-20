@@ -1,0 +1,38 @@
+body  {background-color: #00BFFF;}
+{margin: 0;
+padding: 0;}
+
+Header h1{
+     text-align: center;
+     color: #000000;
+     font-size: 40px;
+     font-family: 'Bernard MT Condensed';
+}
+h2{
+	text-align:justify ;
+	font-size: 35px;
+	font-family: 'Bernard MT Condensed';
+}
+p{
+	text-align: justify;
+	color: #000000
+	font-size: 30px;
+}
+img{
+	list-style: none;
+	margin: 25px;
+	position: justify;
+	display: inline-flex;
+	padding-top: 0px;
+	height: 380px;
+	width: 250px;
+}
+.pie{
+ background-color:#336666 ;
+ text-align:center ;
+ color: #ccc;
+ font-size:20px ;
+ font-family:'Gill Sans Ultra Bold' ;
+ margin:15px ;   
+ max-width:100%;
+ }
