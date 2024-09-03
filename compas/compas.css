@@ -12,10 +12,11 @@ h2{
 	text-align:justify ;
 	font-size: 35px;
 	font-family: 'Bernard MT Condensed';
+	color:#ffffff;
 }
 p{
 	text-align: justify;
-	color: #000000
+	color: #000000;
 	font-size: 30px;
 }
 img{
